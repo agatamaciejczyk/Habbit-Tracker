@@ -2,7 +2,7 @@
 
 Habbit tracker is a simple Vue project, which allows you to track your daily activities in a fast, convenient way.
 
-Check it out at [my-habbit-tracker] (https://my-habbit-tracker.netlify.app/)
+Check it out at [my-habbit-tracker](https://my-habbit-tracker.netlify.app/)
 
 ## Project setup
 ```
